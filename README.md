@@ -22,3 +22,19 @@
  * Pack the clothes based on the climatic conditions.
  
 ![AboutMe](./AboutMe.md)
+
+
+---
+### Favorite Food
+
+I would like to recommend 4 food items which i'm really intrested.
+
+| Item | Place | Price |
+| -----| ----- | ----- |
+| Prawns Fry | Klub F5 | Rs.350 |
+| Chicken Wings Biriyani | Klub F5| Rs.300 |
+| Dragon Chicken | Silver Spoon | Rs.250 |
+| Apollo Fish | Silver Spoon | Rs.300 |
+
+---
+
