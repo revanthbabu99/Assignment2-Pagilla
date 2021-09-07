@@ -40,6 +40,6 @@ I would like to recommend 4 food items which i'm really intrested.
 
 ### Quotations
 
-> Don't stop till you get it. *Revanth Pagilla*
+> "Don't stop till you get it." *Revanth Pagilla*
 
->Kill them with your smile and bury them with your success. *Revanth Pagilla*
+> "Kill them with your smile and bury them with your success." *Revanth Pagilla*
