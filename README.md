@@ -52,8 +52,7 @@ I would like to recommend 4 food items which i'm really intrested.
 >If we have edge weights, we can ask for the spanning tree with the lowest total edge weights.This is the minimum spanning tree.
 [Link for the source](https://www.cs.sfu.ca/~ggbaker/zju/math/spanning-tree.html)
 
----
-
+```
 struct edge {
     int s, e, w, id;
     bool operator<(const struct edge& other) { return w < other.w; }
@@ -170,6 +169,5 @@ int main(void) {
     cout << ans << "\n";
     return 0;
 }
-
----
+```
 [Link for source code](https://cp-algorithms.com/graph/second_best_mst.html)
